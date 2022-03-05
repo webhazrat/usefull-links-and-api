@@ -4,4 +4,4 @@
 
 ## Jquery Plugins
 1. gridstack [https://gridstackjs.com/](https://gridstackjs.com/)
-2. nestable menu [https://github.com/moemoe89/simple-management-menu-php-mysql-jquery](Github Link)
+2. nestable menu [Github Link](https://github.com/moemoe89/simple-management-menu-php-mysql-jquery)
